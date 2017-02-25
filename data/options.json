@@ -1,0 +1,407 @@
+[{
+	"option_id": "14",
+	"option_value_id": "72",
+	"name(en-gb)": "Size (shoes)",
+	"name(bg)": "\u041d\u043e\u043c\u0435\u0440 (\u043e\u0431\u0443\u0432\u043a\u0438)",
+	"value(en-gb)": "36",
+	"value(bg)": "36"
+}, {
+	"option_id": "14",
+	"option_value_id": "73",
+	"name(en-gb)": "Size (shoes)",
+	"name(bg)": "\u041d\u043e\u043c\u0435\u0440 (\u043e\u0431\u0443\u0432\u043a\u0438)",
+	"value(en-gb)": "37",
+	"value(bg)": "37"
+}, {
+	"option_id": "14",
+	"option_value_id": "74",
+	"name(en-gb)": "Size (shoes)",
+	"name(bg)": "\u041d\u043e\u043c\u0435\u0440 (\u043e\u0431\u0443\u0432\u043a\u0438)",
+	"value(en-gb)": "38",
+	"value(bg)": "38"
+}, {
+	"option_id": "14",
+	"option_value_id": "75",
+	"name(en-gb)": "Size (shoes)",
+	"name(bg)": "\u041d\u043e\u043c\u0435\u0440 (\u043e\u0431\u0443\u0432\u043a\u0438)",
+	"value(en-gb)": "39",
+	"value(bg)": "39"
+}, {
+	"option_id": "14",
+	"option_value_id": "76",
+	"name(en-gb)": "Size (shoes)",
+	"name(bg)": "\u041d\u043e\u043c\u0435\u0440 (\u043e\u0431\u0443\u0432\u043a\u0438)",
+	"value(en-gb)": "40",
+	"value(bg)": "40"
+}, {
+	"option_id": "14",
+	"option_value_id": "77",
+	"name(en-gb)": "Size (shoes)",
+	"name(bg)": "\u041d\u043e\u043c\u0435\u0440 (\u043e\u0431\u0443\u0432\u043a\u0438)",
+	"value(en-gb)": "41",
+	"value(bg)": "41"
+}, {
+	"option_id": "14",
+	"option_value_id": "98",
+	"name(en-gb)": "Size (shoes)",
+	"name(bg)": "\u041d\u043e\u043c\u0435\u0440 (\u043e\u0431\u0443\u0432\u043a\u0438)",
+	"value(en-gb)": "41.5",
+	"value(bg)": "41.5"
+}, {
+	"option_id": "14",
+	"option_value_id": "78",
+	"name(en-gb)": "Size (shoes)",
+	"name(bg)": "\u041d\u043e\u043c\u0435\u0440 (\u043e\u0431\u0443\u0432\u043a\u0438)",
+	"value(en-gb)": "42",
+	"value(bg)": "42"
+}, {
+	"option_id": "14",
+	"option_value_id": "79",
+	"name(en-gb)": "Size (shoes)",
+	"name(bg)": "\u041d\u043e\u043c\u0435\u0440 (\u043e\u0431\u0443\u0432\u043a\u0438)",
+	"value(en-gb)": "43",
+	"value(bg)": "43"
+}, {
+	"option_id": "14",
+	"option_value_id": "80",
+	"name(en-gb)": "Size (shoes)",
+	"name(bg)": "\u041d\u043e\u043c\u0435\u0440 (\u043e\u0431\u0443\u0432\u043a\u0438)",
+	"value(en-gb)": "44",
+	"value(bg)": "44"
+}, {
+	"option_id": "14",
+	"option_value_id": "99",
+	"name(en-gb)": "Size (shoes)",
+	"name(bg)": "\u041d\u043e\u043c\u0435\u0440 (\u043e\u0431\u0443\u0432\u043a\u0438)",
+	"value(en-gb)": "44.5",
+	"value(bg)": "44.5"
+}, {
+	"option_id": "14",
+	"option_value_id": "81",
+	"name(en-gb)": "Size (shoes)",
+	"name(bg)": "\u041d\u043e\u043c\u0435\u0440 (\u043e\u0431\u0443\u0432\u043a\u0438)",
+	"value(en-gb)": "45",
+	"value(bg)": "45"
+}, {
+	"option_id": "14",
+	"option_value_id": "82",
+	"name(en-gb)": "Size (shoes)",
+	"name(bg)": "\u041d\u043e\u043c\u0435\u0440 (\u043e\u0431\u0443\u0432\u043a\u0438)",
+	"value(en-gb)": "46",
+	"value(bg)": "46"
+}, {
+	"option_id": "14",
+	"option_value_id": "97",
+	"name(en-gb)": "Size (shoes)",
+	"name(bg)": "\u041d\u043e\u043c\u0435\u0440 (\u043e\u0431\u0443\u0432\u043a\u0438)",
+	"value(en-gb)": "48",
+	"value(bg)": "48"
+}, {
+	"option_id": "13",
+	"option_value_id": "64",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "8",
+	"value(bg)": "8"
+}, {
+	"option_id": "13",
+	"option_value_id": "65",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "10",
+	"value(bg)": "10"
+}, {
+	"option_id": "13",
+	"option_value_id": "86",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "12",
+	"value(bg)": "12"
+}, {
+	"option_id": "13",
+	"option_value_id": "66",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "14",
+	"value(bg)": "14"
+}, {
+	"option_id": "13",
+	"option_value_id": "87",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "16",
+	"value(bg)": "16"
+}, {
+	"option_id": "13",
+	"option_value_id": "67",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "18",
+	"value(bg)": "18"
+}, {
+	"option_id": "13",
+	"option_value_id": "68",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "20",
+	"value(bg)": "20"
+}, {
+	"option_id": "13",
+	"option_value_id": "69",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "22",
+	"value(bg)": "22"
+}, {
+	"option_id": "13",
+	"option_value_id": "70",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "26",
+	"value(bg)": "26"
+}, {
+	"option_id": "13",
+	"option_value_id": "71",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "30",
+	"value(bg)": "30"
+}, {
+	"option_id": "13",
+	"option_value_id": "83",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "36",
+	"value(bg)": "36"
+}, {
+	"option_id": "13",
+	"option_value_id": "84",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "38",
+	"value(bg)": "38"
+}, {
+	"option_id": "13",
+	"option_value_id": "85",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "40",
+	"value(bg)": "40"
+}, {
+	"option_id": "13",
+	"option_value_id": "90",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "41",
+	"value(bg)": "41"
+}, {
+	"option_id": "13",
+	"option_value_id": "91",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "42",
+	"value(bg)": "42"
+}, {
+	"option_id": "13",
+	"option_value_id": "92",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "43",
+	"value(bg)": "43"
+}, {
+	"option_id": "13",
+	"option_value_id": "93",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "44",
+	"value(bg)": "44"
+}, {
+	"option_id": "13",
+	"option_value_id": "94",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "45",
+	"value(bg)": "45"
+}, {
+	"option_id": "13",
+	"option_value_id": "89",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "56",
+	"value(bg)": "56"
+}, {
+	"option_id": "13",
+	"option_value_id": "100",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "23",
+	"value(bg)": "23"
+}, {
+	"option_id": "13",
+	"option_value_id": "101",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "24",
+	"value(bg)": "24"
+}, {
+	"option_id": "13",
+	"option_value_id": "102",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "25",
+	"value(bg)": "25"
+}, {
+	"option_id": "13",
+	"option_value_id": "103",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "27",
+	"value(bg)": "27"
+}, {
+	"option_id": "13",
+	"option_value_id": "104",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "28",
+	"value(bg)": "28"
+}, {
+	"option_id": "13",
+	"option_value_id": "105",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "115 cm",
+	"value(bg)": "115 \u0441\u043c"
+}, {
+	"option_id": "13",
+	"option_value_id": "106",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "120 cm",
+	"value(bg)": "120 \u0441\u043c"
+}, {
+	"option_id": "13",
+	"option_value_id": "107",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "31",
+	"value(bg)": "31"
+}, {
+	"option_id": "13",
+	"option_value_id": "108",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "32",
+	"value(bg)": "32"
+}, {
+	"option_id": "13",
+	"option_value_id": "109",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "33",
+	"value(bg)": "33"
+}, {
+	"option_id": "13",
+	"option_value_id": "110",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "34",
+	"value(bg)": "34"
+}, {
+	"option_id": "13",
+	"option_value_id": "111",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "35",
+	"value(bg)": "35"
+}, {
+	"option_id": "13",
+	"option_value_id": "112",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "37",
+	"value(bg)": "37"
+}, {
+	"option_id": "13",
+	"option_value_id": "114",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "39",
+	"value(bg)": "39"
+}, {
+	"option_id": "13",
+	"option_value_id": "115",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "125 cm",
+	"value(bg)": "125 \u0441\u043c"
+}, {
+	"option_id": "13",
+	"option_value_id": "116",
+	"name(en-gb)": "Size",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440",
+	"value(en-gb)": "110 cm",
+	"value(bg)": "110 \u0441\u043c"
+}, {
+	"option_id": "11",
+	"option_value_id": "59",
+	"name(en-gb)": "Size - EU",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440 - \u0415\u0421",
+	"value(en-gb)": "XS",
+	"value(bg)": "XS"
+}, {
+	"option_id": "11",
+	"option_value_id": "46",
+	"name(en-gb)": "Size - EU",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440 - \u0415\u0421",
+	"value(en-gb)": "S",
+	"value(bg)": "S"
+}, {
+	"option_id": "11",
+	"option_value_id": "63",
+	"name(en-gb)": "Size - EU",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440 - \u0415\u0421",
+	"value(en-gb)": "SM",
+	"value(bg)": "SM"
+}, {
+	"option_id": "11",
+	"option_value_id": "47",
+	"name(en-gb)": "Size - EU",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440 - \u0415\u0421",
+	"value(en-gb)": "M",
+	"value(bg)": "M"
+}, {
+	"option_id": "11",
+	"option_value_id": "62",
+	"name(en-gb)": "Size - EU",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440 - \u0415\u0421",
+	"value(en-gb)": "ML",
+	"value(bg)": "ML"
+}, {
+	"option_id": "11",
+	"option_value_id": "48",
+	"name(en-gb)": "Size - EU",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440 - \u0415\u0421",
+	"value(en-gb)": "L",
+	"value(bg)": "L"
+}, {
+	"option_id": "11",
+	"option_value_id": "60",
+	"name(en-gb)": "Size - EU",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440 - \u0415\u0421",
+	"value(en-gb)": "XL",
+	"value(bg)": "XL"
+}, {
+	"option_id": "11",
+	"option_value_id": "61",
+	"name(en-gb)": "Size - EU",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440 - \u0415\u0421",
+	"value(en-gb)": "XXL",
+	"value(bg)": "XXL"
+}, {
+	"option_id": "11",
+	"option_value_id": "88",
+	"name(en-gb)": "Size - EU",
+	"name(bg)": "\u0420\u0430\u0437\u043c\u0435\u0440 - \u0415\u0421",
+	"value(en-gb)": "XXXL",
+	"value(bg)": "XXXL"
+}]
